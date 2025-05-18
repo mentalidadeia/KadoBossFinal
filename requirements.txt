@@ -1,0 +1,47 @@
+# IA e NLP
+openai==1.30.1
+transformers==4.41.1
+torch==2.3.0
+sentence-transformers==2.7.0
+
+# Web scraping e automação
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.21.0
+html5lib==1.1
+lxml==5.2.1
+
+# Navegador headless para Selenium
+undetected-chromedriver==3.5.5
+
+# Geração de mídia
+Pillow==10.3.0
+moviepy==1.0.3
+gtts==2.5.1
+pydub==0.25.1
+opencv-python==4.9.0.80
+
+# Backend e painel web
+Flask==3.0.3
+jinja2==3.1.3
+
+# E-mail
+yagmail==0.15.293
+
+# Telegram
+python-telegram-bot==20.7
+
+# Outros utilitários
+tqdm==4.66.4
+loguru==0.7.2
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+uuid==1.30
+retry==0.9.2
+schedule==1.2.1
+fake-useragent==1.5.1
+pyyaml==6.0.1
+
+# Modo offline / cache
+diskcache==5.6.3

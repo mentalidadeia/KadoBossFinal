@@ -1,0 +1,23 @@
+# Ignorar o ambiente virtual
+venv/
+.env
+__pycache__/
+*.pyc
+*.log
+
+# Dados temporários
+temp/
+logs/
+outputs/
+backups/
+*.db
+.DS_Store
+
+# Arquivos ocultos do sistema
+*.swp
+*.swo
+
+# Ignorar pastas de desenvolvimento local
+.idea/
+.vscode/
+
